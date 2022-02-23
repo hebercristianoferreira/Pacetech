@@ -10,6 +10,6 @@ inicio
   leia(salario)
   soma<- salario * 1.30
 
-Escreval(soma)
+Escreval("Com aumento de 30% você passara a receber:" , soma)
 
 fimalgoritmo
